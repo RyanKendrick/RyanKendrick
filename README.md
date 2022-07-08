@@ -15,4 +15,6 @@ I'm a Front End Developer based in Toronto. <img style="height: 2em" src="https:
     <img style="height: 4em" alt="npm" title="npm" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg"/>
     <img style="height: 4em" alt="Git" title="Git" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg"/>
     <img style="height: 4em" alt="GitHub" title="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg"/><img style="height: 4em" alt="Visual Studio Code" title="Visual Studio Code" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"/>
-</span>  
+</span>
+<hr/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanKendrick&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
