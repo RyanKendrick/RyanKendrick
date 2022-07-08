@@ -2,7 +2,7 @@
 
 I'm a Front End Developer based in Toronto. <img style="height: 2em" src="https://64.media.tumblr.com/tumblr_mairyt4v5J1rfjowdo1_500.gifv"/>
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FYtPdK4YyUzBhC%2F200.gif&f=1&nofb=1" />
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F66.media.tumblr.com%2F4fe5afbe5d56be6921c1354b3d29edcb%2Ftumblr_ple68favqO1ufq8wko1_1280.gifv&f=1&nofb=1" />
 
 #### 🛠️ Languages & Tools:
 <span>
